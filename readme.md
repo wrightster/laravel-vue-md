@@ -20,4 +20,4 @@ https://www.creative-tim.com/product/vue-material-dashboard
 
 ### License
 
-This project is released under the [WTFPL LICENSE](http://www.wtfpl.net/ "WTFPL LICENSE").
+Laravel Mix is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
