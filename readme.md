@@ -20,4 +20,4 @@ https://www.creative-tim.com/product/vue-material-dashboard
 
 ### License
 
-Laravel Mix is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
